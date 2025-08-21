@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Next & Nest
 - 💞️ I’m looking to collaborate on MERN Stack Developer
-- 📫 mukeshsuthar6142@gmail.com, 9016281095
+- 📫 mukeshsuthar6142@gmail.com, +919016281095
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: ...
 
