@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mukesh Suthar
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning CSS for Web Designing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in MERN Stack Development
+- 🌱 I’m currently learning Next & Nest
+- 💞️ I’m looking to collaborate on MERN Stack Developer
+- 📫 mukeshsuthar6142@gmail.com, 9016281095
+- 😄 Pronouns: his/him
 - ⚡ Fun fact: ...
 
 <!---
