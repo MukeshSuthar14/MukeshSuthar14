@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukeshsuthar90)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshsuthar6142@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fieldtrack360.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mukesh-suthar.vercel.app)
 
 </div>
 
@@ -72,7 +72,7 @@ Full Stack Developer with **2+ years** of experience building scalable, efficien
 
 ---
 
-### 🏥 PraHeal
+### 🏥 [PraHeal](https://praheal.com)
 > A multi-tenant SaaS CRM platform for healthcare clinics
 
 - Built a multi-tenant platform supporting **20+ independent firms** with isolated databases
@@ -84,7 +84,7 @@ Full Stack Developer with **2+ years** of experience building scalable, efficien
 
 ---
 
-### 🧬 IMTECH — Institute of Microbial Technology
+### 🧬 [IMTECH — Institute of Microbial Technology](https://imtech.res.in)
 > Dynamic website for the Institute of Microbial Technology
 
 - Developed a functional module using **Laravel** for backend logic and data processing
